@@ -1,0 +1,19 @@
+{
+  "bundle": {
+    "commonSourceDirectory": "../../src",
+    "sourceFiles": [
+      "../../src/test.ts",
+      "../../src/index.ts"
+    ],
+    "js": {
+      "sections": [
+        {
+          "pos": 0,
+          "end": 780,
+          "kind": "text"
+        }
+      ]
+    }
+  },
+  "version": "4.1.0-dev.20200820"
+}
